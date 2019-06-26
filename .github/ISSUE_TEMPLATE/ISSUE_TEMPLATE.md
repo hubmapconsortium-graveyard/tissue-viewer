@@ -1,8 +1,9 @@
 ---
 name: "Use case"
 about: "Give a use case"
-title: "As a <role>, I want <to do something> so that <I have this benefit>"
+title: "As a <developer|researcher|tissue data provider>, I want <to do something> so that <I have this benefit>"
 ---
+Details?
 
 Acceptance Criteria:
 
