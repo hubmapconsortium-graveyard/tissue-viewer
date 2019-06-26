@@ -1,4 +1,8 @@
-As a <role>, I want <to do something> so that <I have this benefit>.
+---
+name: "Use case"
+about: "Give a use case"
+title: "As a <role>, I want <to do something> so that <I have this benefit>"
+---
 
 Acceptance Criteria:
 
