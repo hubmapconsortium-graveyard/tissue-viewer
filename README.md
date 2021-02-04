@@ -1,3 +1,5 @@
+## 💥 *Deprecated and archived* 💥
+
 # tissue-viewer
 
 [WIP] Tissue Viewer - Requirements Gathering Phase
